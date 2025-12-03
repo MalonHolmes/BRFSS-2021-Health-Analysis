@@ -86,5 +86,3 @@ This project provided meaningful insight into the interplay between **education,
 Future work could incorporate **dietary variables**, **income**, or **regional factors** to refine prediction accuracy and expand the health profile analysis.
 
 ---
-
-Would you like me to turn this summary into a **formatted Markdown or PDF version** (with proper headings, spacing, and style for your submission)?
