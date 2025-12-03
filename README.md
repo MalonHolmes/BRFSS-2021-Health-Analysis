@@ -15,7 +15,7 @@ We began by selecting and cleaning three variables:
 * **CHECKUP1** (time since last medical checkup)
 * **GENHLTH** (self-reported general health)
 
-Missing values, “don’t know,” and “refused” responses were removed to ensure data integrity. The resulting dataset (`brf_Q2`) contained over **431,000 valid cases**. Early analysis revealed that most respondents reported “Good” or “Very Good” health, with regular checkups and moderate fruit intake.
+Missing values, “don’t know,” and “refused” responses were removed to ensure data integrity. The resulting dataset contained over **431,000 valid cases**. Early analysis revealed that most respondents reported “Good” or “Very Good” health, with regular checkups and moderate fruit intake.
 
 ---
 
